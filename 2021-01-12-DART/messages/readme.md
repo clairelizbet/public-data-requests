@@ -36,7 +36,6 @@ Thank you for your interest in the public records of the Dallas Area Rapid Trans
 
 [...]
 
-
 Dallas Area Rapid Transit
 
 ---
