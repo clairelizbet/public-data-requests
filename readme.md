@@ -6,4 +6,4 @@ I'm able to make these requests thanks to neat legislation like the Texas [Publi
 
 ## License
 
-![CC0 Public Domain](https://raw.githubusercontent.com/clairelizbet/licenses/main/creative-commons/cc-zero/cc-zero.svg)
+[![CC0 Public Domain](https://raw.githubusercontent.com/clairelizbet/licenses/main/creative-commons/cc-zero/cc-zero.svg)](license.md)
