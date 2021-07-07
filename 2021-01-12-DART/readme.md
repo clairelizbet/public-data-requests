@@ -1,16 +1,16 @@
 # Request Summary
 
-I made a request using the [DART Public Records Center](https://dart.mycusthelp.com/webapp/_rs/SupportHome.aspx) on January 4, 2021.
+I made a request for the audio files used in the [DART Rail](https://www.dart.org/riding/dartrail.asp) system using the [DART Public Records Center](https://dart.mycusthelp.com/webapp/_rs/SupportHome.aspx) on January 4, 2021.
 
-My request was fulfilled on January 12, 2021.
+My request was fulfilled on January 12, 2021 ✅
 
 ## Records
 
-The requested records are available on my [Google Drive](https://drive.google.com/drive/folders/1zXU5F1ga07iYUeR7CQVjOTzyeULCx5ri).
+DART sent me 335 audio files. A ZIP archive is available on my [Google Drive](https://drive.google.com/drive/folders/1zXU5F1ga07iYUeR7CQVjOTzyeULCx5ri) 📦
 
 ## Correspondence
 
-The messages exchanged during this request are available in the [messages folder](messages).
+The messages exchanged during this request are available in the [messages folder](messages) 📧
 
 ## Metadata
 
